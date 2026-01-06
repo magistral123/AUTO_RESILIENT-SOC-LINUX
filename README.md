@@ -138,21 +138,6 @@ et non comme un simple système passif.
 
 ---
 
-## 🎬 Démonstration (effet WOW)
-- ❌ Tentative d’attaque SSH → **IP bannie automatiquement**
-- ❌ Service stoppé → **redémarrage automatique**
-- 📄 Incident tracé dans les logs
-
----
-
-## 🏆 Résultat attendu
-✔ Sécurité active  
-✔ Disponibilité continue  
-✔ Réactions automatiques  
-✔ Traçabilité complète  
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=800&color=00FFAA&center=true&vCenter=true&width=500&lines=Linux+can+think.;Linux+can+react.;Linux+can+self-heal." />
 </p>
